@@ -1,0 +1,13 @@
+<?php
+
+namespace JJ\GestDocBundle\Controller;
+
+use Symfony\Bundle\FrameworkBundle\Controller\Controller;
+
+class DefaultController extends Controller
+{
+    public function indexAction($name)
+    {
+        return $this->render('JJGestDocBundle:Default:index.html.twig', array('name' => $name));
+    }
+}

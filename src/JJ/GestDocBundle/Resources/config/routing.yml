@@ -1,0 +1,3 @@
+jj_gest_doc_homepage:
+    path:     /hello/{name}
+    defaults: { _controller: JJGestDocBundle:Default:index }

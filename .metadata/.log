@@ -1,0 +1,88 @@
+!SESSION 2015-07-22 09:29:09.601 -----------------------------------------------
+eclipse.buildId=3.6.1.201410201044
+java.version=1.7.0_60
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=es_ES
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 2 0 2015-07-22 09:30:42.426
+!MESSAGE Error parsing metadata repository
+!SUBENTRY 1 org.eclipse.equinox.p2.core 2 0 2015-07-22 09:30:42.426
+!MESSAGE Error in file:/C:/Users/Angel/AppData/Roaming/Appcelerator/Aptana Studio/p2/org.eclipse.equinox.p2.repository/cache/content-1182676945.jar at line 13, column 62: Missing required attribute in "property": value
+!SUBENTRY 1 org.eclipse.equinox.p2.core 2 0 2015-07-22 09:30:42.426
+!MESSAGE Error in file:/C:/Users/Angel/AppData/Roaming/Appcelerator/Aptana Studio/p2/org.eclipse.equinox.p2.repository/cache/content-1182676945.jar at line 2138, column 62: Missing required attribute in "property": value
+!SUBENTRY 1 org.eclipse.equinox.p2.core 2 0 2015-07-22 09:30:42.426
+!MESSAGE Error in file:/C:/Users/Angel/AppData/Roaming/Appcelerator/Aptana Studio/p2/org.eclipse.equinox.p2.repository/cache/content-1182676945.jar at line 2256, column 62: Missing required attribute in "property": value
+!SUBENTRY 1 org.eclipse.equinox.p2.core 2 0 2015-07-22 09:30:42.426
+!MESSAGE Error in file:/C:/Users/Angel/AppData/Roaming/Appcelerator/Aptana Studio/p2/org.eclipse.equinox.p2.repository/cache/content-1182676945.jar at line 3175, column 62: Missing required attribute in "property": value
+!SUBENTRY 1 org.eclipse.equinox.p2.core 2 0 2015-07-22 09:30:42.426
+!MESSAGE Error in file:/C:/Users/Angel/AppData/Roaming/Appcelerator/Aptana Studio/p2/org.eclipse.equinox.p2.repository/cache/content-1182676945.jar at line 4599, column 62: Missing required attribute in "property": value
+!SUBENTRY 1 org.eclipse.equinox.p2.core 2 0 2015-07-22 09:30:42.426
+!MESSAGE Error in file:/C:/Users/Angel/AppData/Roaming/Appcelerator/Aptana Studio/p2/org.eclipse.equinox.p2.repository/cache/content-1182676945.jar at line 4845, column 62: Missing required attribute in "property": value
+!SUBENTRY 1 org.eclipse.equinox.p2.core 2 0 2015-07-22 09:30:42.442
+!MESSAGE Error in file:/C:/Users/Angel/AppData/Roaming/Appcelerator/Aptana Studio/p2/org.eclipse.equinox.p2.repository/cache/content-1182676945.jar at line 6317, column 62: Missing required attribute in "property": value
+!SUBENTRY 1 org.eclipse.equinox.p2.core 2 0 2015-07-22 09:30:42.442
+!MESSAGE Error in file:/C:/Users/Angel/AppData/Roaming/Appcelerator/Aptana Studio/p2/org.eclipse.equinox.p2.repository/cache/content-1182676945.jar at line 7243, column 62: Missing required attribute in "property": value
+
+!ENTRY org.eclipse.equinox.p2.operations 4 10053 2015-07-22 09:31:36.605
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10053 2015-07-22 09:31:36.605
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2015-07-22 09:31:36.605
+!MESSAGE Software being installed: Symfony Feature 1.1.1.201507210451 (com.dubture.symfony.feature.feature.group 1.1.1.201507210451)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2015-07-22 09:31:36.605
+!MESSAGE Missing requirement: Symfony Debug Plugin 1.1.1.201507210451 (com.dubture.symfony.debug 1.1.1.201507210451) requires 'bundle org.eclipse.wst.sse.core 0.0.0' but it could not be found
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2015-07-22 09:31:36.605
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2015-07-22 09:31:36.605
+!MESSAGE From: Symfony Feature 1.1.1.201507210451 (com.dubture.symfony.feature.feature.group 1.1.1.201507210451)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2015-07-22 09:31:36.605
+!MESSAGE To: com.dubture.symfony.debug [1.1.1.201507210451]
+
+!ENTRY org.eclipse.equinox.p2.operations 4 10053 2015-07-22 09:31:36.605
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10053 2015-07-22 09:31:36.605
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2015-07-22 09:31:36.605
+!MESSAGE Software being installed: Symfony Feature 1.1.1.201507210451 (com.dubture.symfony.feature.feature.group 1.1.1.201507210451)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2015-07-22 09:31:36.605
+!MESSAGE Missing requirement: Symfony Debug Plugin 1.1.1.201507210451 (com.dubture.symfony.debug 1.1.1.201507210451) requires 'bundle org.eclipse.wst.sse.core 0.0.0' but it could not be found
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2015-07-22 09:31:36.605
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2015-07-22 09:31:36.605
+!MESSAGE From: Symfony Feature 1.1.1.201507210451 (com.dubture.symfony.feature.feature.group 1.1.1.201507210451)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2015-07-22 09:31:36.605
+!MESSAGE To: com.dubture.symfony.debug [1.1.1.201507210451]
+
+!ENTRY org.eclipse.equinox.p2.operations 4 10053 2015-07-22 09:33:13.377
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10053 2015-07-22 09:33:13.377
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2015-07-22 09:33:13.377
+!MESSAGE Software being installed: Symfony Feature 1.1.1.201507210451 (com.dubture.symfony.feature.feature.group 1.1.1.201507210451)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2015-07-22 09:33:13.377
+!MESSAGE Missing requirement: Symfony Debug Plugin 1.1.1.201507210451 (com.dubture.symfony.debug 1.1.1.201507210451) requires 'bundle org.eclipse.wst.sse.core 0.0.0' but it could not be found
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2015-07-22 09:33:13.377
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2015-07-22 09:33:13.377
+!MESSAGE From: Symfony Feature 1.1.1.201507210451 (com.dubture.symfony.feature.feature.group 1.1.1.201507210451)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2015-07-22 09:33:13.377
+!MESSAGE To: com.dubture.symfony.debug [1.1.1.201507210451]
+
+!ENTRY org.eclipse.equinox.p2.operations 4 10053 2015-07-22 09:33:13.379
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10053 2015-07-22 09:33:13.379
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2015-07-22 09:33:13.379
+!MESSAGE Software being installed: Symfony Feature 1.1.1.201507210451 (com.dubture.symfony.feature.feature.group 1.1.1.201507210451)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2015-07-22 09:33:13.379
+!MESSAGE Missing requirement: Symfony Debug Plugin 1.1.1.201507210451 (com.dubture.symfony.debug 1.1.1.201507210451) requires 'bundle org.eclipse.wst.sse.core 0.0.0' but it could not be found
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2015-07-22 09:33:13.379
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2015-07-22 09:33:13.379
+!MESSAGE From: Symfony Feature 1.1.1.201507210451 (com.dubture.symfony.feature.feature.group 1.1.1.201507210451)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2015-07-22 09:33:13.379
+!MESSAGE To: com.dubture.symfony.debug [1.1.1.201507210451]
+
+!ENTRY org.eclipse.core.jobs 2 2 2015-07-22 09:40:58.571
+!MESSAGE Job found still running after platform shutdown.  Jobs should be canceled by the plugin that scheduled them during shutdown: com.aptana.usage.internal.DefaultAnalyticsEventHandler$1
